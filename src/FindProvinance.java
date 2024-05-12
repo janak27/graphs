@@ -1,5 +1,8 @@
 import java.util.ArrayList;
-class findCircleNum {
+
+public class FindProvinance {
+    public static void main(String[] args) {
+    }
         public int findCircleNum(int[][] isConnected) {
             int n = isConnected.length;
 
@@ -38,5 +41,4 @@ class findCircleNum {
                 }
             }
         }
-    }
-
+}
